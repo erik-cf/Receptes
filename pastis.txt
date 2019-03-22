@@ -13,3 +13,6 @@ Passes:
 
 Valoracio:
 	- 9 / 10
+
+Calories:
+	-1000 kCal.
