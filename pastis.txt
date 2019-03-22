@@ -5,3 +5,8 @@ Ingredients:
 	- Sucre
 	- Oli
 	- Iogurt
+
+Passes:
+	- Es mescla farina, ou i oli.
+	- S'afegeixen la resta d'ingredients.
+	- Quan quedi bona massa al forn.
