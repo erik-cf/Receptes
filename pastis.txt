@@ -10,3 +10,6 @@ Passes:
 	- Es mescla farina, ou i oli.
 	- S'afegeixen la resta d'ingredients.
 	- Quan quedi bona massa al forn.
+
+Valoracio:
+	- 9 / 10
