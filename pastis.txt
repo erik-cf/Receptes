@@ -5,6 +5,7 @@ Ingredients:
 	- Sucre
 	- Oli
 	- Iogurt
+<<<<<<< HEAD
 
 Passes:
 	- Es mescla farina, ou i oli.
@@ -16,3 +17,6 @@ Valoracio:
 
 Calories:
 	-1000 kCal.
+=======
+	- Poma
+>>>>>>> fix-pastis
